@@ -1,0 +1,126 @@
+{
+    "SCALE": {
+        "Subject": {
+            "primary": "A powerful and culturally authentic Jallikattu celebration in a traditional Tamil Nadu village during the Pongal harvest festival",
+            "main_subjects": [
+                {
+                    "role": "Native bull",
+                    "description": "A muscular, majestic Kangayam bull with a prominent hump, strong curved horns, a broad forehead, and a natural dark grey coat",
+                    "details": "Traditional colorful neck decorations and a simple rope halter, with realistic anatomy and a proud, alert expression"
+                },
+                {
+                    "role": "Jallikattu participant",
+                    "description": "A young Tamil man wearing a traditional white veshti tied securely above the knees",
+                    "details": "Athletic build, focused expression, natural movement, and a determined but respectful attitude"
+                },
+                {
+                    "role": "Village community",
+                    "description": "Tamil farmers, village elders, and spectators wearing traditional South Indian clothing",
+                    "details": "Authentic rural appearance, joyful expressions, and a strong sense of community pride"
+                }
+            ],
+            "cultural_symbols": [
+                "Tamil cultural identity",
+                "Native Kangayam cattle",
+                "Traditional white veshti",
+                "Sugarcane stalks",
+                "Pongal festival decorations",
+                "Traditional village architecture",
+                "Tamil festival banners"
+            ],
+            "theme": "Tamil heritage, bravery, farming traditions, native cattle preservation, community pride, and the continuity of rural culture"
+        },
+        "Composition": {
+            "framing": "Wide cinematic action shot capturing the bull and participant as the dominant subjects",
+            "foreground": "A powerful native bull charging across an earthen arena, kicking up dust, with a participant attempting to hold onto the bull's hump in a recognizable Jallikattu moment",
+            "midground": "Other participants maintaining distance while spectators watch from designated safe viewing areas",
+            "background": "A traditional Tamil village festival setting with sugarcane decorations, banana leaves, village houses, and distant palm trees",
+            "visual_hierarchy": "The bull is the main focal point, followed by the participant and the celebrating village community",
+            "camera_angle": "Low-angle three-quarter action perspective emphasizing the bull's strength and the movement of the scene",
+            "lens": "35mm cinematic documentary photography",
+            "aspect_ratio": "16:9",
+            "depth": "Sharp focus on the bull and participant, with a naturally softened crowd and background",
+            "motion": "Freeze-frame action photography with realistic dust particles and sharply defined subjects"
+        },
+        "Action": {
+            "primary_action": "A native Kangayam bull bursts forward through the Jallikattu arena while a participant attempts to hold the hump in a traditional sporting moment",
+            "secondary_actions": [
+                "The bull's muscles and legs move naturally during the charge",
+                "The participant maintains a realistic athletic posture",
+                "Dust rises from the dry earth",
+                "Spectators cheer enthusiastically from behind secure barriers",
+                "Farmers and village elders celebrate the cultural tradition"
+            ],
+            "movement_style": "Dynamic, physically plausible, documentary-style action",
+            "emotional_tone": "Courage, excitement, respect for native cattle, cultural pride, and community celebration",
+            "animal_welfare": "Show a healthy, alert bull without visible injuries, blood, cruelty, or deliberate mistreatment"
+        },
+        "Location": {
+            "setting": "A traditional Jallikattu arena in a rural village in Tamil Nadu, India",
+            "cultural_reference": "Jallikattu celebrations associated with the Thai Pongal season, inspired by the rural traditions of Madurai district and Alanganallur",
+            "environment": [
+                "Dry earthen arena",
+                "Traditional Tamil village houses",
+                "Sugarcane stalks and banana leaves",
+                "Coconut and palmyra palms",
+                "Traditional festival decorations",
+                "Spectators behind designated barriers"
+            ],
+            "time_of_day": "Early morning during the Pongal festival",
+            "weather": "Clear sky with warm sunlight and a light rural breeze",
+            "atmosphere": "Energetic, festive, authentic, and deeply rooted in Tamil agricultural heritage"
+        },
+        "Esthetic": {
+            "visual_style": "Photorealistic cinematic action photography",
+            "art_direction": "A premium cultural documentary aesthetic celebrating Tamil rural traditions and native cattle",
+            "color_palette": [
+                "Earthy terracotta",
+                "Warm golden sunlight",
+                "Natural charcoal grey",
+                "Harvest gold",
+                "Deep green",
+                "Traditional ivory white"
+            ],
+            "lighting": "Dramatic golden-hour sunlight with natural highlights, realistic shadows, and illuminated dust particles",
+            "textures": [
+                "Detailed bull coat and natural horns",
+                "Rough earthen ground",
+                "Traditional cotton veshti",
+                "Sugarcane leaves",
+                "Natural skin texture",
+                "Rural architectural materials"
+            ],
+            "mood": "Heroic, energetic, culturally proud, powerful, and respectful",
+            "cultural_authenticity": "Accurately represent Tamil Jallikattu traditions, native cattle, traditional attire, and rural Pongal celebrations without mixing unrelated cultural practices",
+            "render_quality": "Ultra-detailed, realistic anatomy, natural motion, cinematic depth, high dynamic range, professional documentary composition",
+            "typography": {
+                "include_text": true,
+                "main_text": "ஜல்லிக்கட்டு",
+                "secondary_text": "தமிழர் வீர விளையாட்டு",
+                "meaning": "Jallikattu — A traditional sport of Tamil people",
+                "placement": "Bold Tamil lettering along the upper edge, keeping the bull and participant unobstructed",
+                "style": "Strong traditional Tamil typography in warm ivory and harvest gold",
+                "constraint": "Use correctly spelled Tamil text with clear, legible characters and no additional invented lettering"
+            },
+            "negative_prompt": [
+                "Fantasy bull anatomy",
+                "Unrealistic horns or extra legs",
+                "Distorted human anatomy",
+                "Floating participants",
+                "Unnatural bull movement",
+                "Visible blood or severe injuries",
+                "Animal cruelty",
+                "Modern stadium aesthetics",
+                "Unrelated cultural costumes",
+                "Western rodeo equipment",
+                "Incorrect traditional clothing",
+                "Excessive visual effects",
+                "Over-saturated colors",
+                "Unintended text",
+                "Misspelled Tamil lettering",
+                "Watermarks",
+                "Low-resolution details"
+            ]
+        }
+    }
+}

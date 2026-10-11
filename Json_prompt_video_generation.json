@@ -1,0 +1,122 @@
+
+{
+  "SCALE": {
+    "Subject": {
+      "primary": "A traditional Tamil Nadu Mattuvandi race featuring wooden bullock carts pulled by strong native cattle along a rural village track",
+      "bulls": {
+        "description": "Healthy, powerful South Indian native bulls with realistic anatomy, muscular shoulders, natural horns, and glossy coats",
+        "details": "Traditional colorful cloth decorations, simple harnesses, and small festive ornaments",
+        "behavior": "Running naturally in coordinated pairs, with realistic movement and no visible injuries"
+      },
+      "cart": {
+        "description": "Authentic traditional Tamil wooden bullock cart with large wooden wheels, a sturdy frame, and traditional craftsmanship",
+        "driver": "A Tamil farmer wearing a white veshti tied securely for movement and a simple traditional shirt or shoulder towel"
+      },
+      "cultural_identity": [
+        "Tamil agricultural heritage",
+        "Traditional village sports",
+        "Native cattle preservation",
+        "Pongal harvest celebrations",
+        "Rural community pride"
+      ]
+    },
+    "Composition": {
+      "duration": "5 seconds",
+      "aspect_ratio": "16:9",
+      "shot_type": "Single continuous cinematic tracking shot",
+      "opening_frame": "A low, front three-quarter view of two traditional bullock carts approaching along a dusty village track",
+      "main_frame": "The lead cart races forward while a second cart runs alongside at a slight distance",
+      "closing_frame": "The leading cart passes the camera, wooden wheels spinning and sunlight illuminating the dust behind it",
+      "subject_placement": "The leading bullock cart dominates the center of the frame, with the second cart visible in the background",
+      "camera_angle": "Low tracking angle near the level of the bullocks and cart wheels",
+      "lens": "Cinematic 35mm lens",
+      "depth_of_field": "Sharp focus on the lead cattle and cart, with a naturally softened rural background"
+    },
+    "Action": {
+      "timeline": [
+        {
+          "time": "0.0-1.5 seconds",
+          "action": "Two traditional bullock carts charge forward along the dry village track. The bulls begin at a fast run, kicking up light dust."
+        },
+        {
+          "time": "1.5-3.5 seconds",
+          "action": "The camera tracks alongside the leading cart. The wooden wheels rotate rapidly, the harnesses move naturally, and the farmer maintains his balance while guiding the cart."
+        },
+        {
+          "time": "3.5-5.0 seconds",
+          "action": "The lead cart moves slightly ahead and sweeps past the camera, leaving a golden trail of dust as the second cart continues racing behind."
+        }
+      ],
+      "animal_motion": "Realistic synchronized running gait, natural leg movement, balanced harness tension, and physically plausible cart motion",
+      "cart_motion": "Fast rotating wooden wheels with believable ground contact, suspension movement, and dust interaction",
+      "environmental_motion": "Dust swirls gently, sugarcane leaves sway in the breeze, and loose fabric moves naturally",
+      "emotional_tone": "Excitement, rural pride, cultural celebration, and the energy of a traditional Tamil village race"
+    },
+    "Location": {
+      "setting": "A rural village in Tamil Nadu, South India, during a traditional Mattuvandi race",
+      "track": "A broad, dry earthen track suitable for a traditional bullock-cart race",
+      "background": [
+        "Green paddy fields",
+        "Sugarcane fields",
+        "Coconut and palmyra palms",
+        "Traditional Tamil village houses",
+        "Village spectators standing behind safe barriers",
+        "Subtle Pongal festival decorations"
+      ],
+      "time_of_day": "Early morning golden hour",
+      "weather": "Clear skies, warm sunlight, and a gentle breeze",
+      "atmosphere": "Authentic rural Tamil Nadu, festive, energetic, and culturally grounded"
+    },
+    "Esthetic": {
+      "visual_style": "Photorealistic cinematic rural sports footage",
+      "art_direction": "A premium documentary-style portrayal of Tamil agricultural traditions, emphasizing authentic carts, native cattle, and village culture",
+      "color_palette": [
+        "Earthy terracotta",
+        "Golden yellow",
+        "Natural green",
+        "Warm brown",
+        "Ivory white"
+      ],
+      "lighting": "Low golden sunlight, realistic shadows, subtle volumetric dust, and natural highlights on the cattle",
+      "motion_quality": "Smooth continuous motion, realistic physics, consistent animal anatomy, stable cart geometry, and natural motion blur",
+      "camera_movement": "Smooth low-angle tracking shot with a gentle lateral pan as the lead cart passes the camera",
+      "frame_rate": "24 fps",
+      "resolution": "4K",
+      "sound_design": {
+        "include_audio": true,
+        "ambience": [
+          "Rhythmic hoofbeats on dry earth",
+          "Wooden cart wheels rattling",
+          "Harness bells jingling",
+          "Excited village crowd ambience",
+          "Soft rural wind"
+        ],
+        "music": "Optional energetic traditional Tamil folk percussion, with thavil-inspired rhythms",
+        "dialogue": "No dialogue or voice-over"
+      },
+      "cultural_authenticity": "Preserve traditional Tamil bullock-cart craftsmanship, native cattle appearance, rural clothing, and agricultural festival atmosphere",
+      "animal_welfare": "Show healthy cattle running with natural movement, without visible injury, cruelty, or dangerous collisions",
+      "negative_prompt": [
+        "Modern tractors or motor vehicles",
+        "Western rodeo carts",
+        "Incorrect bullock-cart design",
+        "Unrealistic animal anatomy",
+        "Extra legs or duplicated cattle",
+        "Floating wheels",
+        "Wheels rotating in the wrong direction",
+        "Broken harness geometry",
+        "Unnatural running gait",
+        "Bull collisions",
+        "Visible injuries or blood",
+        "Excessive dust obscuring subjects",
+        "Shaky camera",
+        "Sudden scene cuts",
+        "Flickering frames",
+        "Artificial CGI appearance",
+        "Modern urban background",
+        "Watermarks",
+        "Unintended text"
+      ]
+    }
+  }
+}

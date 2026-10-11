@@ -1,0 +1,114 @@
+{
+    "SCALE": {
+        "Subject": {
+            "primary": "A joyful traditional Tamil family celebrating the Pongal harvest festival in a rural Tamil Nadu village",
+            "people": [
+                "A Tamil farmer wearing a white veshti with a colored border and a traditional shirt",
+                "A woman wearing a vibrant traditional silk saree with jasmine flowers in her hair",
+                "Children dressed in traditional Tamil festive clothing",
+                "Village elders celebrating together"
+            ],
+            "cultural_elements": [
+                "A traditional clay pot filled with freshly harvested rice and milk",
+                "Pongal overflowing from the pot",
+                "Sugarcane stalks",
+                "Fresh turmeric plants tied around the pot",
+                "Decorated native cattle with colorful but respectful adornments",
+                "Traditional brass lamps",
+                "Colorful kolam patterns"
+            ],
+            "theme": "Tamil agricultural heritage, harvest abundance, family unity, gratitude to nature, and respect for farmers"
+        },
+        "Composition": {
+            "framing": "Wide cinematic composition showing the family, harvest decorations, cattle, and village surroundings",
+            "foreground": "A decorated clay Pongal pot overflowing with rice and milk, surrounded by turmeric plants, sugarcane, and a colorful kolam",
+            "midground": "The family celebrating together, smiling and raising their hands joyfully as the Pongal boils over",
+            "background": "Lush green paddy fields, coconut palms, traditional Tamil village houses, and a bullock cart",
+            "visual_hierarchy": "The overflowing Pongal pot is the central focal point, with the family and agricultural landscape framing it naturally",
+            "camera_angle": "Eye-level cinematic wide shot with a slight low-angle emphasis on the festive scene",
+            "aspect_ratio": "16:9",
+            "depth": "Layered foreground, detailed subjects, and a softly atmospheric rural background"
+        },
+        "Action": {
+            "primary_action": "The family celebrates as freshly cooked Pongal boils over the clay pot, symbolizing prosperity and abundance",
+            "secondary_actions": [
+                "The farmer smiles proudly while holding freshly harvested paddy stalks",
+                "The woman tends the Pongal pot",
+                "Children clap joyfully and celebrate",
+                "Family members exchange festive greetings",
+                "Decorated cattle stand calmly beside the celebration"
+            ],
+            "environmental_action": "Gentle morning sunlight illuminates the paddy fields while a soft breeze moves the sugarcane leaves",
+            "emotional_tone": "Joy, gratitude, prosperity, community, family unity, and pride in Tamil agricultural traditions"
+        },
+        "Location": {
+            "setting": "A traditional agricultural village in Tamil Nadu, South India",
+            "environment": "A rural courtyard beside lush paddy fields, decorated for the Thai Pongal harvest festival",
+            "architectural_details": [
+                "Traditional Tamil village homes",
+                "Terracotta roof tiles",
+                "Wooden doors",
+                "Earthen walls",
+                "Traditional courtyard"
+            ],
+            "agricultural_details": [
+                "Freshly harvested paddy sheaves",
+                "Green rice fields",
+                "Sugarcane bundles",
+                "Banana plants",
+                "Traditional farming tools",
+                "A wooden bullock cart"
+            ],
+            "time_of_day": "Early morning during the Thai Pongal celebration",
+            "atmosphere": "Warm, festive, authentic, peaceful, and deeply connected to rural Tamil life"
+        },
+        "Esthetic": {
+            "visual_style": "Photorealistic cinematic cultural photography",
+            "art_direction": "A vibrant and authentic portrayal of Tamil harvest traditions with documentary-level cultural detail",
+            "color_palette": [
+                "Harvest gold",
+                "Paddy-field green",
+                "Terracotta orange",
+                "Turmeric yellow",
+                "Traditional saree red",
+                "Warm ivory"
+            ],
+            "lighting": "Soft golden sunrise with natural highlights, realistic shadows, and gentle atmospheric light",
+            "textures": [
+                "Clay pot and earthen ground",
+                "Fresh rice grains",
+                "Traditional cotton and silk fabrics",
+                "Sugarcane leaves",
+                "Paddy stalks",
+                "Natural skin textures"
+            ],
+            "mood": "Celebratory, heartwarming, abundant, culturally proud, and uplifting",
+            "cultural_authenticity": "Accurately portray Tamil Pongal traditions, rural farming practices, traditional clothing, kolam designs, and agricultural life",
+            "render_quality": "Ultra-detailed, high dynamic range, realistic materials, natural human expressions, cinematic depth, professional composition",
+            "typography": {
+                "include_text": true,
+                "main_text": "தைப் பொங்கல்",
+                "secondary_text": "உழவர் திருநாள்",
+                "meaning": "Thai Pongal — Farmers' Festival",
+                "placement": "Elegant Tamil lettering along the upper portion of the image, leaving the main celebration unobstructed",
+                "style": "Traditional Tamil typography in warm gold and ivory",
+                "constraint": "Render the Tamil text accurately and legibly; avoid extra text or misspelled characters"
+            },
+            "negative_prompt": [
+                "Modern urban buildings",
+                "Western festival decorations",
+                "Inaccurate Tamil traditional clothing",
+                "Unrelated cultural symbols",
+                "Artificial-looking food",
+                "Distorted faces or hands",
+                "Extra limbs or duplicated people",
+                "Aggressive or distressed animals",
+                "Excessive saturation",
+                "Plastic-looking skin",
+                "Incorrect Tamil lettering",
+                "Watermarks",
+                "Low-resolution details"
+            ]
+        }
+    }
+}
